@@ -1,5 +1,6 @@
 # netflux
 ```
+npm install
 npm run dev
 ```
 ### http://locahost:4000
